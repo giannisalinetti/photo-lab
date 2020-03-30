@@ -33,6 +33,7 @@ I followed the time suggested by [digitaltruth.com](digitaltruth.com) for
 the development of the Ilford Delta 400. It is important to notice that the 
 officiel times provided by Ilford are quite different but I did not felt very
 confortable with their very short inversion times.
+The following process times are related to a a temperature of **20°C**.
 
 ### Development
 Total time: **7 minutes**
