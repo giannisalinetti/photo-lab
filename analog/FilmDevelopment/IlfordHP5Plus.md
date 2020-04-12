@@ -1,6 +1,6 @@
-# Development of Ilford Delta 400 Film
+# Development of Ilford HP5 Plus Film
 
-This page describes the development process of Ilford Delta 400 film with
+This page describes the development process of Ilford HP5 Plus film with
 the following chemicals:
 
 - **Developer**: Ilford Ilfosol 3 [product info](https://www.ilfordphoto.com/1131778)
@@ -16,11 +16,18 @@ Dilution ratio: **1 + 9**
 The following dilutions are for 300 ml of development:  
 **30 ml Ilfosol 3 + 270 ml water**
 
+The following dilutions are for 600 ml of development (two films):
+**60 ml Ilfosol 3 + 540 ml water**
+
+
 ### Stop Bath
 Dilution ratio: **1 + 19**
 
 The following dilutions are for 300 ml of diluted stop bath:  
 **15 ml Ilfostop + 285 ml water**
+
+The following dilutions are for 300 ml of diluted stop bath:  
+**30 ml Ilfostop + 570 ml water**
 
 ### Fix Bath
 Dilution ratio: **1 + 4**
@@ -28,20 +35,26 @@ Dilution ratio: **1 + 4**
 The following dilutions are for 300 ml of fix bath:  
 **60 ml RapidFixer + 240 ml water**
 
+The following dilutions are for 300 ml of fix bath:  
+**120 ml RapidFixer + 480 ml water**
+
 ## Process Times
 I followed the time suggested by [digitaltruth.com](digitaltruth.com) for 
-the development of the Ilford Delta 400. It is important to notice that the 
+the development of the Ilford HP5 Plus. It is important to notice that the 
 officiel times provided by Ilford are quite different but I did not felt very
 confortable with their very short inversion times.
 The following process times are related to a a temperature of **20°C**.
 
 ### Development
-Total time: **7 minutes**
+Total time: **6.5 minutes**
 - 1 minute inversions
 - 1 minute rest
-Then repeat 5 times:
+Then repeat 4 times:
 - 10 seconds inversions
 - 50 seconds rest
+Final:
+- 10 seconds inversions
+- 20 seconds rest
 
 10/15 seconds before the end of time begin pouring the solution out of the tank and 
 prepare to fill with the stop bath.
