@@ -26,7 +26,7 @@ Dilution ratio: **1 + 19**
 The following dilutions are for 300 ml of diluted stop bath:  
 **15 ml Ilfostop + 285 ml water**
 
-The following dilutions are for 300 ml of diluted stop bath:  
+The following dilutions are for 600 ml of diluted stop bath:  
 **30 ml Ilfostop + 570 ml water**
 
 ### Fix Bath
@@ -35,7 +35,7 @@ Dilution ratio: **1 + 4**
 The following dilutions are for 300 ml of fix bath:  
 **60 ml RapidFixer + 240 ml water**
 
-The following dilutions are for 300 ml of fix bath:  
+The following dilutions are for 600 ml of fix bath:  
 **120 ml RapidFixer + 480 ml water**
 
 ## Process Times
@@ -48,10 +48,10 @@ The following process times are related to a a temperature of **20°C**.
 ### Development
 Total time: **6.5 minutes**
 - 1 minute inversions
-- 1 minute rest
+- 1 minute rest  
 Then repeat 4 times:
 - 10 seconds inversions
-- 50 seconds rest
+- 50 seconds rest  
 Final:
 - 10 seconds inversions
 - 20 seconds rest
@@ -67,7 +67,7 @@ the Fix Bath
 ### Fix Bath
 Total time: **5 minutes**
 - 1 minute inversions
-- 1 minute rest
+- 1 minute rest  
 Then repeat 3 times:
 - 10 seconds inversions
 - 50 seconds rest
