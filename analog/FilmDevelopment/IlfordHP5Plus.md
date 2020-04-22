@@ -43,12 +43,14 @@ I followed the time suggested by [digitaltruth.com](digitaltruth.com) for
 the development of the Ilford HP5 Plus. It is important to notice that the 
 officiel times provided by Ilford are quite different but I did not felt very
 confortable with their very short inversion times.
+Anyway, after a couple of developments, I found that the results were a little
+bit overdeveloped and I shortened the inversion time.
 The following process times are related to a a temperature of **20°C**.
 
 ### Development
-Total time: **6.5 minutes**
-- 1 minute inversions
-- 1 minute rest  
+Total time: **6.0 minutes**
+- 30 seconds inversions
+- 30 seconds  rest  
 Then repeat 4 times:
 - 10 seconds inversions
 - 50 seconds rest  
